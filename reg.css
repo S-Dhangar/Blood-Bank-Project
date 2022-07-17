@@ -1,0 +1,52 @@
+.php{
+    margin: 0%;
+    
+}
+input{
+    width: 60%;
+    margin-top: 15px;
+    height: 25px;
+    padding: 3px;
+    margin-left: 200px;
+   border-radius: 10px;
+   border: 2px solid black;
+  
+}
+.body{
+   
+    background: url('Background.jpg');
+    padding: 20px;
+    background-size: cover;
+   size: 100%;
+}
+
+img{
+  margin-left: 550px;
+  border-radius: 100%;
+   height: 80px;
+   cursor: pointer;
+   border: 2px solid white;
+}
+h1{
+   
+    margin-left: 560px;
+}
+button{
+    margin-top: 20px;
+    margin-left: 490px;
+    width: 200px;
+    height: 30px;
+    background-color: rgb(230, 157, 0);
+    color: black;
+    border-radius: 7px;
+    font-size: large;
+    font-weight: bold;
+}
+input:hover{
+    background-color: rgb(172, 172, 172);
+    cursor: text;
+}
+button:hover{
+    background-color: rgb(83, 83, 83);
+    cursor: pointer;
+}
